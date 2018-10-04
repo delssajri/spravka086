@@ -559,6 +559,8 @@ form input, form textarea, form select {
 
 	.text {
 		padding: 0 10px;
+
+		clear: both;
 	}
 
 	.text_inblock__link {
