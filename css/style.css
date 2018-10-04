@@ -540,7 +540,7 @@ form input, form textarea, form select {
 	margin-left: 1px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 660px) {
 	.box_inline .top_slog_box {
 		width: 150px;
 
