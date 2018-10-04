@@ -575,7 +575,7 @@ form input, form textarea, form select {
 }
 
 @media (max-width: 1000px) {
-	.text {
-		clear: both;
+	.text_inblock__img {
+		display: block;
 	}
 }
