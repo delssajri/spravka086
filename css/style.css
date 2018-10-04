@@ -541,10 +541,6 @@ form input, form textarea, form select {
 }
 
 @media screen and (max-width: 600px) {
-	.container {
-		width: 320px;
-	}
-
 	.box_inline .top_slog_box {
 		width: 150px;
 
@@ -572,6 +568,6 @@ form input, form textarea, form select {
 	}
 
 	.text_inblock__img {
-		width: 250px;
+		width: 300px;
 	}
 }
